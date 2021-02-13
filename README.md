@@ -1,4 +1,4 @@
-# HWUnit03
+# Password-Generator
 This Repository stores a Javascript password generator program
 
 # Project: Password Generator in JavaScript
