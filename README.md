@@ -1,5 +1,5 @@
 # Password-Generator
-This Repository stores a Javascript password generator program
+This Repository stores a Javascript password generator program.  For a user given number between 8 and 128, this program generates a random string.  This string (based on user selected choice of character types) can be any combination of uppercase, lowercase, numerical and special characters. 
 
 # Project: Password Generator in JavaScript
 
